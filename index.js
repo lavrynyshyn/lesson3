@@ -2,7 +2,7 @@
 
 var http = require("http"),
     url = require("url"),
-    routes = require("./routes");
+    routes = require("./lib/routes");
 
 
 

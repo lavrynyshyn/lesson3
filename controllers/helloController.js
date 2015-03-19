@@ -4,7 +4,6 @@ var data = { title : 'Hello, World!' };
 
 module.exports = {
    getAction: function(request, response, next){
-       /* next(null) */
        setTimeout(function(next){
            response.statusCode = 200;
            try{

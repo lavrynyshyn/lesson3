@@ -12,16 +12,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ria-com/school-test-project-day3.git"
+    "url": "https://github.com/lavrynyshyn/lesson3.git"
   },
   "keywords": [
     "node",
     "javascript"
   ],
-  "author": "",
+  "author": "lavryk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ria-com/school-test-project-day3/issues"
+    "url": "https://github.com/lavrynyshyn/lesson3/issues"
   },
-  "homepage": "https://github.com/ria-com/school-test-project-day3"
+  "homepage": "https://github.com/lavrynyshyn/lesson3/"
 }
